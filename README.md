@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Blck4
-- 👀 I'm interested in reverse engineering and hacking
+- 👀 I'm gad
 - 👨 I'm a reverse engineer
 - 🌱 I am currently learning how to attack with detection techniques
 - 😄 Let's go
